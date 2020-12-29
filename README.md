@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Learning
 Learning Python with the help of Jovian.ml
 
 **Zero to Pandas:**  
