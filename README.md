@@ -1,5 +1,4 @@
 # Python-Projects
-Small projects using Python
 Learning Python with the help of Jovian.ml
 
 **Zero to Pandas:**  
